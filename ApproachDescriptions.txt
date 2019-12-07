@@ -1,0 +1,13 @@
+First Approach
+86.89 accuracy
+max len of sentence was 80. I think its was because of this len because of which training was taking so long.
+
+
+Second Approach
+As additonal preprocessing step removing words with length 3 or less.
+Fixing max len of sentence to 25.
+
+Third Approach
+As additional preprcoessing step removing words with length 3 or less.
+Fixing max len of sentence to 25.
+Using bidirectional LSTM
